@@ -14,3 +14,4 @@ Note: Average Kills and Average Placement are on a per game basis.
 
 - CSV file was constructed from fortnitetracker.com leaderboards for any past event recorded
 - The above format needs to be followed in order to display accurate results
+- The go back button will take the user to the main menu, in which a new csv file can be entered
