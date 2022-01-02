@@ -1,6 +1,8 @@
 # FortniteDataTracking
 An application that allows the user to view statistics and draw conclusions based on them.
 
+The GUI was created with the tkinter library (https://docs.python.org/3/library/tkinter.html).
+
 The data needs to be formatted in the following csv order:
 Place, Name, Points, Games Played, Games Won, Average Kills, Average Placement
 
