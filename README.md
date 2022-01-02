@@ -5,7 +5,6 @@ The GUI was created with the tkinter library (https://docs.python.org/3/library/
 
 The data needs to be formatted in the following csv order:
 Place, Name, Points, Games Played, Games Won, Average Kills, Average Placement
-
 Note: Average Kills and Average Placement are on a per game basis.
 
 This desktop application was created with Python 3.9.6. Run the GUI by opening the window.py file.
