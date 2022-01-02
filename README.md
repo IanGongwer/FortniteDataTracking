@@ -6,6 +6,8 @@ Place, Name, Points, Games Played, Games Won, Average Kills, Average Placement
 
 Note: Average Kills and Average Placement are on a per game basis.
 
+This desktop application was created with Python 3.9.6. Run the GUI by opening the window.py file.
+
 # Main Menu
 ![image](https://user-images.githubusercontent.com/63007329/147890955-65fc873d-0f40-4ac9-895a-dad292310e34.png)
 
